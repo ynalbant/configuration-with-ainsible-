@@ -23,7 +23,7 @@
       ignore_errors: true   
 
     - name: Get Key
-      shell: r1soft-setup --get-key http://backuo.ayyildizrug.com 
+      shell: r1soft-setup --get-key http://backup.ayyildizrug.com 
     
     
     - name: Start R1soft Agent
